@@ -19,3 +19,11 @@ Hi! Welcome to my repository! I created this for my Data Storytelling class! My 
 
 ## LINE CHART LAB
 <iframe title="Chart: College Enrollment at Lehigh University 2007-2017" aria-describedby="The enrollment in the College of Engineering had increased significantly over the past few years. Each data point shows and percentage of students in each college out of all students. " id="datawrapper-chart-I5fml" src="//datawrapper.dwcdn.net/I5fml/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+
+
+### Project Assignment 1
+The bar chart below is my first visualization for my project. The chart answers the question, "what were the top selling albums in the past decade?". Through this visualization my group and I could attempt to find patterns in album releases in certain periods of time, and also see what type of genre is a top selling album.
+
+<iframe title="Chart: Best Selling Albums from 2000-Present" aria-describedby="A bar chart showing the top-selling albums in the past 18 years and their sales. " id="datawrapper-chart-pfoHv" src="//datawrapper.dwcdn.net/pfoHv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="973"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
